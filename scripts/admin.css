@@ -1,0 +1,96 @@
+/**
+* Plugin name: Search Engine Keywords
+* Admin option styling.
+*/
+
+fieldset {
+    border: 1px solid lightgray;
+}
+
+fieldset > *{
+    margin: 5px 20px;
+}
+
+fieldset legend {
+    padding: 0 10px;
+    font-weight: bold;
+}
+
+fieldset label {
+}
+
+.nothing {
+    font-size: 130%;
+    font-weight: normal;
+    font-style: italic;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.settings-section {
+    margin-top: 35px;
+    margin-bottom: 15px;
+}
+
+.settings-section h3 {
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.settings-section input[type="submit"] {
+    margin: 10px 25px;
+}
+
+.settings-section input[type="submit"].secondary-submit {
+    margin: 2px 10px;
+}
+
+.settings-section  .active,
+.settings-section  .inactive {
+    background-color: #ffebe8;
+    border: 1px solid #C00;
+    padding: 2px;
+    border-radius: 0 3px;
+    text-align: center;
+}
+
+.settings-section .active {
+    background-color: #ebffe8;
+    border: 1px solid #0C0;
+}
+
+#SE-table td{
+    font-size: 120%;
+}
+
+#repl-table .big {
+    font-size: 150%;
+    font-family: "Times New Roman", Times, serif;
+}
+
+input[type="text"].long-text {
+    width: 52%;
+}
+
+#se-zone label {
+    display: block;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.field-info {
+    font-style: italic;
+    display: block;
+}
+
+.field-info em {
+    font-style: normal;
+}
+
+.single-setting {
+    float: left;
+}
+
+.clear-before {
+    clear: both;
+}

@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sek\n"
+"POT-Creation-Date: 2013-07-31 07:03+0300\n"
+"PO-Revision-Date: 2013-07-31 07:03+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/lib/sek-plugin.class.php:32
+msgid "Add Pattern"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/lib/sek-plugin.class.php:33
+msgid "Add Search Engine"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/lib/sek-plugin.class.php:34
+msgid "Remove"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/lib/sek-plugin.class.php:35
+msgid "Activate"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/lib/sek-plugin.class.php:36
+msgid "Deactivate"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/lib/sek-plugin.class.php:60
+msgid "Options page - SEK Plugin"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/lib/sek-plugin.class.php:60
+msgid "SEK Options"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/lib/sek-plugin.class.php:110
+msgid "Add a pattern :"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/lib/sek-plugin.class.php:156
+msgid "Name: "
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/lib/sek-plugin.class.php:158
+msgid "i.e. Google"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/lib/sek-plugin.class.php:161
+msgid "Domain: "
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/lib/sek-plugin.class.php:163
+msgid "\"google\" for Google.<br />No tld(.com), no subdomain(www.) "
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/lib/sek-plugin.class.php:166
+msgid "Query variable: "
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/lib/sek-plugin.class.php:168
+msgid "\"q\" for Google, \"p\" for Yahoo"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/lib/sek-plugin.class.php:186
+msgid "Pattern added successfully."
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/lib/sek-plugin.class.php:201
+#, php-format
+msgid ""
+"There is already an equivalent pattern to \"%1$s\" in the pattern stack. "
+"<em> (\"%2$s\")</em>"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/lib/sek-plugin.class.php:209
+#, php-format
+msgid ""
+"The pattern <em>\"%s\"</em> is invalid. Do not use successive variables. You "
+"must space them with at least one character."
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/lib/sek-plugin.class.php:219
+#, php-format
+msgid ""
+"There is one or more invalid variable name in the pattern \"%1$s\": <em>"
+"(%2$s)</em>"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/lib/sek-plugin.class.php:226
+#, php-format
+msgid "There is one or more variable name already in use: <em>(%s)</em>"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/lib/sek-plugin.class.php:230
+#, php-format
+msgid "The pattern <em>\"%s\"</em> is invalid."
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/lib/sek-plugin.class.php:243
+msgid "Search Engine added successfully."
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/lib/sek-plugin.class.php:252
+msgid ""
+"Please enter a valid domain for the new Search Engine (without tld nor "
+"subdomain)."
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/lib/sek-plugin.class.php:256
+msgid "Query variable field of the new search engine is missing."
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/lib/sek-plugin.class.php:263
+msgid "This Search engine is already registred."
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/tmpl/options-page.php:13
+msgid "Search Engine Keywords settings"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/tmpl/options-page.php:17
+msgid "Patterns :"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/tmpl/options-page.php:21
+msgid "Patterns"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/tmpl/options-page.php:22
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/tmpl/options-page.php:62
+msgid "Status"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/tmpl/options-page.php:23
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/tmpl/options-page.php:63
+msgid "Actions"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/tmpl/options-page.php:28
+msgid "There is no registered pattern yet."
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/tmpl/options-page.php:33
+msgid "Active"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/tmpl/options-page.php:33
+msgid "Inactive"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/tmpl/options-page.php:48
+msgid "New Pattern"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/tmpl/options-page.php:55
+msgid "Search Engines :"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/tmpl/options-page.php:59
+msgid "Search Engines Name"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/tmpl/options-page.php:60
+msgid "Domain Name"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/tmpl/options-page.php:61
+msgid "Query variable"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/tmpl/options-page.php:68
+msgid "There is no registered Search Engine."
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/tmpl/options-page.php:75
+msgid "Listen"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/tmpl/options-page.php:75
+msgid "Down"
+msgstr ""
+
+#: C:\RAW_APP_DATA\xampp\htdocs\wp352\wp-content\plugins\SEKeywords/tmpl/options-page.php:90
+msgid "New Search Engine"
+msgstr ""
